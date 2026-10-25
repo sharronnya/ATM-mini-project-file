@@ -1,0 +1,43 @@
+#1) print statement
+print("saranya")
+
+#2)  python script with both single line and multiline comments 
+# This is a single_line comment
+'''This script prints my name 
+using multiline comments'''
+print("s saranya")
+
+#3)simple input and outpur using age
+age = int("28")
+print (age)
+print(type(age))
+
+#4)string opeartions
+num_1 = "25"
+num_2 = "26"
+result = (num_1 + num_2)
+print(result)
+
+#5) data structures and data types
+list_data  = [  26,5.7, "saranya", (3.5, 79, 70)]
+print(list_data)
+print(type(list_data)) 
+
+#6)  integer to float
+num_3 = 3 
+print(float(num_3))
+print(type(num_3))
+
+#7)  float to integer
+num_1 = 4.9
+print(int(num_1))
+
+#8)python variables
+num_7 = 19
+num_8 = "sharu"
+print(num_7)
+print(num_8)
+
+# python keywords
+# if
+
